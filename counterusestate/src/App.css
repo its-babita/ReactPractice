@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.counter-title{
+  margin-left: 250px;
+  margin-top: 200px;
+  color: #1d0707;
+}
+
+.counter-heading{
+  margin-top:50px;
+  margin-left: 200px;
+}
+.count{
+  margin-left: 360px;
+  margin-top: 50px;
+}
+.btn-container{
+  margin-top: 50px;
+  margin-left: 250px;
+}
